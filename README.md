@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -25,17 +25,12 @@
 
 ### About Me
 
-Java Developer focused on backend development
-🌱 Currently learning DSA, Spring Boot, Microsoft Azure & Microservices
-🚀 Building scalable REST APIs and AI-integrated backend systems
-🔧 Interested in System Design, Databases & Cloud Technologies
-🤝 Open to collaborating on interesting software projects
-
-I specialize in designing and building backend systems with **Core Java, Spring Boot, and MySQL** — writing RESTful APIs, normalizing database schemas, and following MVC and design-pattern best practices to keep code clean and maintainable. I care about getting the fundamentals right: solid API contracts, proper testing with JUnit, and documentation that actually helps the next person.
-
-Beyond writing code, I've spent the last two years leading technical workshops and mentoring 300+ participants as part of a developer community, which sharpened both my engineering judgment and my ability to communicate technical decisions clearly. I'm currently working on **CoalMine Insight**, an AI-powered reporting solution built for Smart India Hackathon 2026, and I actively contribute to full-stack projects spanning React.js, Node.js, Firebase, and cloud-integrated backends.
-
-I'm looking for backend or full-stack roles where I can take ownership of real systems, ship reliable code, and keep learning by building.
+🚀 Backend-focused Java Developer who builds clean, scalable REST APIs  
+🌱 Currently sharpening my DSA, Spring Boot, and Microsoft Azure skills  
+🛠️ Comfortable across Spring Boot, MySQL, JDBC, and Firebase  
+🎯 Building **CoalMine Insight** — an AI-powered reporting solution for Smart India Hackathon 2026  
+👥 Led 5+ technical workshops as GDG Technical Head, mentoring 300+ students  
+🤝 Open to backend / full-stack roles — let's build something real
 
 **Reach me at:** khushic208@gmail.com
 
