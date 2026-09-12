@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Khushi Choudhary</h1>
 
 <p align="center">
@@ -18,7 +17,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
 I'm a Computer Science student who enjoys building things and figuring out how they work behind the scenes.
 
@@ -95,7 +94,7 @@ AI • Backend • Data • Smart Systems
 
 <td width="50%" align="center">
 
-### 🧑‍💼 Counselling Management System
+### 🧑💼 Counselling Management System
 
 A management system designed to simplify and organize counselling-related workflows.
 
@@ -155,7 +154,7 @@ A smart solution focused on improving processes in the coal-mining domain.
 
 <td width="33%" align="center">
 
-## 🧑‍💼
+## 🧑💼
 
 ### Counselling Management System
 
@@ -240,4 +239,3 @@ A food-focused application created while exploring modern application developmen
 <p align="center">
   <i>Thanks for stopping by! 🚀</i>
 </p>
-```
