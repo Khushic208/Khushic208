@@ -23,6 +23,17 @@ Java Developer focused on backend development
 
 ---
 
+### 🌟 Top Repository
+
+<a href="https://github.com/khushic208">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khushic208&repo=Counselling-Management-System&theme=tokyonight&hide_border=true" />
+</a>
+
+<br clear="left"/>
+
+> 📌 Update the repo name above (`Counselling-Management-System`) to match your exact GitHub repository name so the card pulls correctly.
+
+---
 
 ### 🚀 Featured Projects
 
