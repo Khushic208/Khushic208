@@ -19,38 +19,13 @@ Java Developer focused on backend development
 🔧 Interested in System Design, Databases & Cloud Technologies
 🤝 Open to collaborating on interesting software projects
 
+I specialize in designing and building backend systems with **Core Java, Spring Boot, and MySQL** — writing RESTful APIs, normalizing database schemas, and following MVC and design-pattern best practices to keep code clean and maintainable. I care about getting the fundamentals right: solid API contracts, proper testing with JUnit, and documentation that actually helps the next person.
+
+Beyond writing code, I've spent the last two years leading technical workshops and mentoring 300+ participants as part of a developer community, which sharpened both my engineering judgment and my ability to communicate technical decisions clearly. I'm currently working on **CoalMine Insight**, an AI-powered reporting solution built for Smart India Hackathon 2026, and I actively contribute to full-stack projects spanning React.js, Node.js, Firebase, and cloud-integrated backends.
+
+I'm looking for backend or full-stack roles where I can take ownership of real systems, ship reliable code, and keep learning by building.
+
 **Reach me at:** khushic208@gmail.com
-
----
-
-### 🌟 Top Repository
-
-<a href="https://github.com/khushic208">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khushic208&repo=Counselling-Management-System&theme=tokyonight&hide_border=true" />
-</a>
-
-<br clear="left"/>
-
-> 📌 Update the repo name above (`Counselling-Management-System`) to match your exact GitHub repository name so the card pulls correctly.
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="100%" valign="top">
-
-**🏥 Counselling Management System**  
-`Core Java` `Spring Boot` `MySQL` `JDBC` `REST APIs`
-
-Built RESTful APIs for appointment booking and session tracking, handling 200+ records on a normalized MySQL schema with full API documentation and MVC design patterns.
-
-</td>
-</tr>
-</table>
-
-I've also built several full-stack projects across **React.js, Node.js, Spring Boot, and Firebase** — covering areas like backend automation, AI-integrated features, and system design.
 
 ---
 
@@ -60,75 +35,120 @@ I've also built several full-stack projects across **React.js, Node.js, Spring B
 <tr>
 <td><b>Languages</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Frameworks & Libraries</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-336791?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-336791?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Databases</b></td>
 <td>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Cloud & Tools</b></td>
 <td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </td>
 </tr>
 <tr>
 <td><b>Core Concepts</b></td>
 <td>
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-009688?style=flat-square" />
-  <img src="https://img.shields.io/badge/DBMS-336791?style=flat-square" />
-  <img src="https://img.shields.io/badge/Operating%20Systems-FFB300?style=flat-square" />
-  <img src="https://img.shields.io/badge/Computer%20Networks-1976D2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-6E4AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20APIs-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Operating%20Systems-FFB300?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Networks-1976D2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design%20Patterns-6E4AFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-FF5722?style=for-the-badge" />
 </td>
 </tr>
 </table>
 
 ---
 
-### 👾 Meet My Commits
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khushic208/khushic208/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> ⚙️ **One-time setup:** this animation is generated by forking [jkdevcode/github-pacman](https://github.com/jkdevcode/github-pacman) into your own `khushic208/khushic208` profile repo (or copying its `.github/workflows` folder into it), then:
-> 1. Create an `output` branch in your repo.
-> 2. Enable GitHub Actions (Settings → Actions → General → allow read/write permissions).
-> 3. Edit the workflow file to use your username `khushic208`.
-> 4. Run the workflow once manually — it'll then auto-update every 12 hours.
->
-> Once that's done, the image above will pull your real contribution graph as a Pac-Man animation automatically.
+**🏥 Counselling Management System**  
+`Core Java` `Spring Boot` `MySQL` `JDBC` `REST APIs`
+
+Built RESTful APIs for appointment booking and session tracking, handling 200+ records on a normalized MySQL schema with full API documentation and MVC design patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**♻️ Eco-Craft — Google Solution Challenge**  
+`Spring Boot` `AI Material Recognition` `Google Maps API`
+
+A nationally recognized full-stack project combining AI-based material recognition with Google Maps integration — built with strict MVC patterns and shipped with zero critical bugs after thorough code review.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔒 Cybersecurity Learning Platform**  
+`React.js` `Node.js` `Firebase`
+
+First Runner-up at Hackathon 2025 — an interactive full-stack platform with quizzes and progress tracking, used by 100+ students to learn cybersecurity fundamentals.
+
+</td>
+<td width="50%" valign="top">
+
+**🍔 AI-Powered Food Delivery App**  
+`Spring Boot` `REST APIs` `Firebase` `Node.js`
+
+A full-stack delivery platform that improved order accuracy by 30% using AI-based prediction and route optimization built on RESTful APIs.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**⛓️ Royalties Core — Blockchain Royalty System**  
+`Blockchain` `Smart Contracts` `JavaScript`
+
+A blockchain-based royalty distribution system using smart contracts, enabling transparent, automated payouts and eliminating manual processing errors for creator transactions.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 GDG College Website**  
+`React.js` `Node.js` `REST APIs` `Firebase`
+
+A full-stack production platform with event management and dynamic content that drew 500+ page views at launch.
+
+</td>
+</tr>
+</table>
 
 ---
 
