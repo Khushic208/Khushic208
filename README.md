@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -25,12 +25,15 @@
 
 ### About Me
 
-🚀 Backend-focused Java Developer who builds clean, scalable REST APIs  
-🌱 Currently sharpening my DSA, Spring Boot, and Microsoft Azure skills  
-🛠️ Comfortable across Spring Boot, MySQL, JDBC, and Firebase  
-🎯 Building **CoalMine Insight** — an AI-powered reporting solution for Smart India Hackathon 2026  
-👥 Led 5+ technical workshops as GDG Technical Head, mentoring 300+ students  
-🤝 Open to backend / full-stack roles — let's build something real
+> Backend Developer specializing in Java & Spring Boot — building systems that scale, not just demos.
+
+| | |
+|---|---|
+| **Core Focus** | Designing RESTful APIs, normalized database schemas, and clean, testable backend systems with Java, Spring Boot, and MySQL |
+| **Currently Building** | CoalMine Insight — an AI-powered reporting solution for Smart India Hackathon 2026 |
+| **Leadership** | Led 5+ technical workshops and mentored 300+ students as GDG Technical Head |
+| **Currently Sharpening** | DSA, Microsoft Azure, and microservice architecture |
+| **Looking For** | Backend / full-stack roles where I can own real systems end-to-end |
 
 **Reach me at:** khushic208@gmail.com
 
