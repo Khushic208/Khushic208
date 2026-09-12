@@ -1,176 +1,219 @@
-<h1 align="center">Hi, I'm Khushi Choudhary 👋</h1>
+<h1 align="center">Hi 👋, I'm Khushi Choudhary</h1>
+
+<h3 align="center">
+  Java Developer • Backend Enthusiast • Spring Boot • REST APIs
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%2B+Spring+Boot;I+turn+coffee+into+REST+APIs;GDG+Technical+Head+%7C+2+Years+of+Leading+Teams;Currently+Debugging+Life+and+Code" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khushic208&label=Profile%20views&color=2F81F7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/khushic208?label=Followers&style=flat&color=2F81F7" alt="followers" />
+  <a href="https://github.com/Khushic208">
+    <img src="https://komarev.com/ghpvc/?username=khushic208&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/Khushic208?tab=followers">
+    <img src="https://img.shields.io/github/followers/Khushic208?label=Followers&style=for-the-badge&logo=github" alt="Followers" />
+  </a>
 </p>
 
 ---
 
-### About Me
+## 👩‍💻 About Me
 
-I'm a Computer Science student at CDGI, Indore, and I mostly live on the backend side of things — Java, Spring Boot, MySQL, and figuring out how to make APIs behave. I've spent the last two years as Technical Head at GDG on Campus, running workshops, leading a team, and somehow also learning that explaining tech to a room full of people is its own kind of debugging.
+💻 Java Developer focused on backend development  
+🌱 Currently learning DSA, Spring Boot, Microsoft Azure & Microservices  
+🚀 Building scalable REST APIs and AI-integrated backend systems  
+🔧 Interested in System Design, Databases & Cloud Technologies  
+🤝 Open to collaborating on interesting software projects  
 
-Right now I'm building **CoalMine Insight** for Smart India Hackathon 2026, sharpening my DSA, and slowly making my way into Azure and AI-integrated microservices. Outside of code, I've hosted a podcast for 500+ listeners and organized events for 300+ people — so apparently I like chaos, as long as it's well-documented.
-
-**Reach me at:** khushic208@gmail.com
+- 🔭 I’m currently working on **CoalMine Insight (SIH)**
+- 🌱 I’m currently learning **DSA, Spring Boot, Microsoft Azure, and Microservices Architecture with AI-integrated backend systems**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Khushic208)**
+- 📫 How to reach me **khushic208@gmail.com**
+- ⚡ Fun fact: **I once organized a tech event for 300+ people — turns out managing chaos is basically a backend skill too.**
 
 ---
 
-### 🌟 Top Repository
+## 🛠️ Languages & Tools
 
-<a href="https://github.com/khushic208">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=khushic208&repo=Counselling-Management-System&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,javascript,html,spring,nodejs,mysql,mariadb,docker,azure,gcp,firebase,git,github,figma" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khushic208&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushic208&theme=github_dark" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khushic208&theme=github_dark" width="100%" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Khushic208&theme=github-dark-blue&hide_border=true" width="80%" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushic208&theme=github-compact&hide_border=true" width="100%" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Khushic208&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⛏️ CoalMine Insight</h3>
+
+<p>
+Smart mining-focused project developed for <b>Smart India Hackathon</b>.
+</p>
+
+<p><b>Focus:</b> AI • Backend • Data • Smart Systems</p>
+
+<a href="https://github.com/Khushic208">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
 </a>
 
-<br clear="left"/>
+</td>
 
-> 📌 Update the repo name above (`Counselling-Management-System`) to match your exact GitHub repository name so the card pulls correctly.
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
 <td width="50%" valign="top">
 
-**🏥 Counselling Management System**  
-`Core Java` `Spring Boot` `MySQL` `JDBC` `REST APIs`
+<h3>🍔 Delicioury</h3>
 
-Built RESTful APIs for appointment booking and session tracking, handling 200+ records on a normalized MySQL schema with full API documentation.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/khushic208)
-
-</td>
-<td width="50%" valign="top">
-
-**♻️ Eco-Craft — Google Solution Challenge**  
-`Spring Boot` `AI Recognition` `Google Maps API`
-
-Nationally recognized project combining AI-based material recognition with Google Maps integration, shipped with zero critical bugs.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/khushic208)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🔒 Cybersecurity Learning Platform**  
-`React.js` `Node.js` `Firebase`
-
-First Runner-up, Hackathon 2025 — an interactive quiz and progress-tracking platform used by 100+ students.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/khushic208)
-
-</td>
-<td width="50%" valign="top">
-
-**🍔 AI-Powered Food Delivery App**  
-`Spring Boot` `Firebase` `Node.js`
-
-Improved order accuracy by 30% using AI-based prediction and route optimization.
-
-[![Repo](https://img.shields.io/badge/View_Repo-2F81F7?style=flat-square&logo=github&logoColor=white)](https://github.com/khushic208)
-
-</td>
-</tr>
-</table>
-
-> 📌 Swap each "View Repo" link with the actual repository URL once you're ready.
-
----
-
-### 🛠️ Tech Stack
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Frameworks & Libraries</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/JDBC-336791?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Databases</b></td>
-<td>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Cloud & Tools</b></td>
-<td>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Core Concepts</b></td>
-<td>
-  <img src="https://img.shields.io/badge/OOP-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Design%20Patterns-6E4AFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/REST%20APIs-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/System%20Design-FF5722?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-009688?style=flat-square" />
-</td>
-</tr>
-</table>
-
----
-
-### 👾 Meet My Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/khushic208/khushic208/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
+<p>
+A food-focused project exploring modern web development.
 </p>
 
-> ⚙️ **One-time setup:** this animation is generated by forking [jkdevcode/github-pacman](https://github.com/jkdevcode/github-pacman) into your own `khushic208/khushic208` profile repo (or copying its `.github/workflows` folder into it), then:
-> 1. Create an `output` branch in your repo.
-> 2. Enable GitHub Actions (Settings → Actions → General → allow read/write permissions).
-> 3. Edit the workflow file to use your username `khushic208`.
-> 4. Run the workflow once manually — it'll then auto-update every 12 hours.
->
-> Once that's done, the image above will pull your real contribution graph as a Pac-Man animation automatically.
+<p><b>Tech:</b> TypeScript</p>
+
+<a href="https://github.com/Khushic208/Delicioury">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧮 Calculator</h3>
+
+<p>
+A simple calculator application built to practice programming fundamentals.
+</p>
+
+<p><b>Tech:</b> C++</p>
+
+<a href="https://github.com/Khushic208/Calculator">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>❌ Tic Tac Toe</h3>
+
+<p>
+A classic Tic Tac Toe game implementation built using C++.
+</p>
+
+<p><b>Tech:</b> C++</p>
+
+<a href="https://github.com/Khushic208/tictactoe">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Connect with Me
+# 🧠 Current Focus
 
-<p align="left">
-  <a href="https://linkedin.com/in/khushi-choudhary-b782502b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:khushic208@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/khushic208" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-  </a>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Java-Backend-orange?style=for-the-badge&logo=openjdk" />
+<img src="https://img.shields.io/badge/Spring_Boot-Learning-green?style=for-the-badge&logo=springboot" />
+<img src="https://img.shields.io/badge/REST_APIs-Development-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-Learning-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Azure-Learning-0078D4?style=for-the-badge&logo=microsoftazure" />
+<img src="https://img.shields.io/badge/DSA-Learning-red?style=for-the-badge" />
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+<table align="center">
+<tr>
+<td align="center"><b>☕ Java</b></td>
+<td align="center"><b>🧩 DSA</b></td>
+<td align="center"><b>🌱 Spring Boot</b></td>
+<td align="center"><b>☁️ Microsoft Azure</b></td>
+</tr>
+<tr>
+<td align="center"><b>🔗 Microservices</b></td>
+<td align="center"><b>🤖 AI Integration</b></td>
+<td align="center"><b>🗄️ Databases</b></td>
+<td align="center"><b>🏗️ System Design</b></td>
+</tr>
+</table>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/khushi-choudhary-b782502b9">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:khushic208@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Khushic208">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Khushic208/Khushic208/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+---
+
+<p align="center">
+  <b>💙 Thanks for visiting my profile!</b>
+  <br><br>
+  <i>Let's build something impactful together. 🚀</i>
 </p>
