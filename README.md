@@ -9,6 +9,18 @@
   <img src="https://img.shields.io/github/followers/khushic208?label=Followers&style=flat&color=2F81F7" alt="followers" />
 </p>
 
+<h3 align="center">Backend-first Developer — Web Applications</h3>
+
+<p align="center">Building scalable systems with a focus on clean architecture and real-world reliability</p>
+<p align="center">Focused on writing maintainable code, designing efficient APIs, and solving practical problems</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SPRINGBOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
 ---
 
 ### About Me
